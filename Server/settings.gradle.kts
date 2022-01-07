@@ -1,1 +1,1 @@
-rootProject.name = "example"
+rootProject.name = "com.tmaslon.server.example"
